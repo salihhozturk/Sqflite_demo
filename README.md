@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 ![2](https://user-images.githubusercontent.com/59146034/107864507-d640e580-6e6d-11eb-8e5a-bf6bb29c2d10.jpeg)
 
 
-<h3>>Ürün Eklendi <h3>
+<h3>Ürün Eklendi <h3>
 
 ![3](https://user-images.githubusercontent.com/59146034/107864512-e8bb1f00-6e6d-11eb-85da-aeccc11f4c73.jpeg)
 
@@ -33,12 +33,12 @@ samples, guidance on mobile development, and a full API reference.
 ![4](https://user-images.githubusercontent.com/59146034/107864515-f83a6800-6e6d-11eb-82e0-7cc36646d80c.jpeg)
 
 
-<h4>Ürün Güncelle<h4>
+<h3>Ürün Güncelle<h3>
   
 ![5](https://user-images.githubusercontent.com/59146034/107864520-06888400-6e6e-11eb-8b09-08e97fbc44cc.jpeg)
 
 
-<h4>Ürün Güncellendi !!<h4>
+<h3>Ürün Güncellendi !!<h3>
 
 ![6](https://user-images.githubusercontent.com/59146034/107864522-130cdc80-6e6e-11eb-8f95-a0ac5ffe0475.jpeg)
 
