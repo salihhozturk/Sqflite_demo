@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<center><h3>Ana Sayfa<h3><center>
+<center><h3>Ana Sayfa<h3></center>
   
 ![1](https://user-images.githubusercontent.com/59146034/107864501-c6290600-6e6d-11eb-9d86-134ef5cbceb4.jpeg)
 
